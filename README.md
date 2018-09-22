@@ -1,4 +1,4 @@
 leetcode-practices
 ===
 
-I randomly pick medium level problems on leetcode
+I randomly pick medium and hard level problems on leetcode
