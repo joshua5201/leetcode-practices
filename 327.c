@@ -7,7 +7,6 @@
 
 long long int merge(long long int *sums, int left, int mid, int right, int lower, int upper)
 {
-    printf("l,m,r = %d,%d,%d\n", left, mid, right);
     /* find crs */
     int ll;
     int rl = mid, rr = mid;
